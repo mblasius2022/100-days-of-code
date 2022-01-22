@@ -9,7 +9,7 @@
 ### Day 0: 22 January 2022
 ##### (delete me or comment me out)
 
-**Today's Progress**: Python Crash Course Chapter 2 Variables and simple data types.
+**Today's Progress**: Python Crash Course Chapter 2 Variables and simple data types. Worked on creating and modifying lists
 **Thoughts:** 
 **Link to work:** 
 
