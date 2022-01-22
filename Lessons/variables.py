@@ -23,5 +23,6 @@ print("\n")
 print(n1*n2+n3)
 print(n2*n3)
 
+print(f"Hello {full_name.upper()}")
 
 
