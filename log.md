@@ -6,11 +6,23 @@
 ** Projects**: https://www.freecodecamp.org/news/python-projects-for-beginners/
 
 
-### Day 0: 22 January 2022
+### Day 1: 22 January 2022
 ##### (delete me or comment me out)
 
 **Today's Progress**: Python Crash Course Chapter 2 Variables and simple data types. Worked on creating and modifying lists
 **Thoughts:** 
 **Link to work:** 
 
+### Day 2: 23 January 2022
+##### (delete me or comment me out)
 
+**Today's Progress**: Python Crash Course Chapter 3 continued learning about string lists
+**Thoughts:** 
+**Link to work:** 
+
+### Day 3: 24 January 2022
+##### (delete me or comment me out)
+
+**Today's Progress**: Python Crash Course Chapter 4 Working with lists. Understanding the For loop to work through a list, ranges and List Comprehensions  
+**Thoughts:**  
+**Link to work:**  
