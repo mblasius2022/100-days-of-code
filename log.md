@@ -26,6 +26,11 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Link to work:** 
 
 ### Day 4: 25 January 2022
-**Today's Progress**:   Coninued with chapter four - slicing, copying, tuples  
+**Today's Progress**:   Continued with chapter four - slicing, copying, tuples  
 **Thoughts:**  
+**Link to work:**  
+
+### Day 5: 26 January 2022  
+**Today's Progress**:   no coding today  
+**Thoughts:** Sometimes life, or your own laziness, gets in the way    
 **Link to work:**  
