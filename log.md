@@ -34,3 +34,8 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Today's Progress**:   no coding today  
 **Thoughts:** Sometimes life, or your own laziness, gets in the way    
 **Link to work:**  
+  
+### Day 6: 27 January 2022  
+**Today's Progress**:    
+**Thoughts:**    
+**Link to work:**  
