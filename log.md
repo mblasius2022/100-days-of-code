@@ -45,3 +45,20 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Today's Progress**:    finished chapter 5
 **Thoughts:**
 **Link to work:**
+
+
+ ### Day 8: 29 January 2022
+ **Today's Progress**: Chapter 6 - Dictionaries
+ **Thoughts:**
+**Link to work:**
+
+ ### Day 9: 30 January 2022
+ **Today's Progress**: continued with Chapter 6 Dictionaries
+ **Thoughts:**
+**Link to work:**
+
+
+ ### Day 10: 31 January 2022
+ **Today's Progress**: finished Chapter 6 Dictionaries
+ **Thoughts:**
+**Link to work:**
