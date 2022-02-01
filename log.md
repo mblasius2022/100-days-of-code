@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-** Language**: Python
+** Language:** Python
 ** Course**: Python Crash Course by Eric Matthes
 ** Problems**: https://practice.geeksforgeeks.org/explore/?problemType=functional&page=1&sortBy=submissions
 ** Projects**: https://www.freecodecamp.org/news/python-projects-for-beginners/
 
 
 ### Day 1: 22 January 2022
-**Today's Progress**: Python Crash Course Chapter 2 Variables and simple data types. Chapter 3 Lists
+**Today's Progress:**: Python Crash Course Chapter 2 Variables and simple data types. Chapter 3 Lists
 **Thoughts:**
 **Link to work:**
 
@@ -55,10 +55,16 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
  ### Day 9: 30 January 2022
  **Today's Progress**: continued with Chapter 6 Dictionaries
  **Thoughts:**
-**Link to work:**
+ **Link to work:**
 
 
  ### Day 10: 31 January 2022
- **Today's Progress**: finished Chapter 6 Dictionaries
+ **Today's Progress**: finished Chapter 6 Dictionaries.
  **Thoughts:**
+ **Link to work:**
+
+
+### Day 11: 1 February 2022
+**Today's Progress**:  Started chapter 7 - User input and while loops
+**Thoughts:**
 **Link to work:**
