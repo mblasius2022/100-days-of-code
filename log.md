@@ -68,3 +68,8 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Today's Progress**:  Started chapter 7 - User input and while loops
 **Thoughts:**
 **Link to work:**
+
+### Day 12: 12February 2022
+**Today's Progress**:  finished chapter 7 nd moved on to Chapter 8 - Functions
+**Thoughts:**
+**Link to work:**
