@@ -85,3 +85,41 @@ Chapter 7 - User Input and While Loops
 # while x < 5:
 #     print(x)
 #     #x += 1
+
+# #7.8
+# #start with list of sandwich orders
+# sandwich_orders = ['cheese and salad', 'pastrami on rye', 'BLT', 'meatball sub', 'turkey', 'ham']
+# finished_sandwiches = []
+# # loop trhough orders and make sandwiches
+# while sandwich_orders:
+#     sandwich = sandwich_orders.pop()
+#     print(f"Making a {sandwich} now")
+#     finished_sandwiches.append(sandwich)
+#print(finished_sandwiches)
+
+
+#7.9
+# sandwich_orders = ['pastrami', 'cheese and salad', 'pastrami', 'BLT', 'meatball', 'pastrami', 'turkey', 'ham']
+
+# print("We have run out of pastrami")
+# while 'pastrami' in sandwich_orders:
+#     sandwich_orders.remove('pastrami')
+
+# print(sandwich_orders)
+
+#7.10
+responses = {}
+# polling_active = True
+# while polling_active == True:
+#     name = input("\nPlease enter your name: ")
+#     destination =  input("If you could visit one place in the world, where would it be?")
+
+#     responses[name]=destination
+
+#     repeat = input("\nContinue polling yes or no? ")
+#     if repeat.lower() == 'no':
+#         polling_active = False
+
+# print('\nPoll Results:')
+# for name, destination in responses.items():
+#     print(f"\t{name.title()} woud like to visit {destination.title()}")
