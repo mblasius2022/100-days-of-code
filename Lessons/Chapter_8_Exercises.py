@@ -172,3 +172,23 @@ Chapter 8 - Functions
 # car = make_car('Volkswagen',model = 'Beetle',color = 'yellow', year = 1974, tow_package = False, sat_nav = False, roof_racks = True)
 # for k, v in car.items():
 #     print(f"{k} = {v}")
+
+#8.15
+# from display_model_process import *
+# unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron', 'godzilla']
+# completed_models = []
+# print_models(unprinted_designs, completed_models)
+# show_completed_models(completed_models)
+
+#8.16
+from making_sandwiches import make_sandwich
+make_sandwich('bacon', 'lettuce', 'tomato', 'cheese', 'jalapeno')
+
+from making_sandwiches import make_sandwich as ms
+make_sandwich('pastrami', 'pickle')
+
+import making_sandwiches as mn
+mn.make_sandwich('2 all beef patties', 'lettuce', 'pickles', 'onion', 'special sauce')
+
+from making_sandwiches import *
+make_sandwich('toasted', 'cheese', 'ham', 'tomato')

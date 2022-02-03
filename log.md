@@ -69,7 +69,15 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Thoughts:**
 **Link to work:**
 
-### Day 12: 12February 2022
-**Today's Progress**:  finished chapter 7 nd moved on to Chapter 8 - Functions
+### Day 12: 2 February 2022
+**Today's Progress**:  finished chapter 7 and moved on to Chapter 8 - Functions
 **Thoughts:**
 **Link to work:**
+
+
+### Day 13: 3 February 2022
+**Today's Progress**:  finished chapter 8 and moved on to Chapter 9 - Classes
+**Thoughts:**
+**Link to work:**
+
+
