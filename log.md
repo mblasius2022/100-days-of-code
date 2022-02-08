@@ -81,3 +81,31 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Link to work:**
 
 
+### Day 14: 4 February 2022
+**Today's Progress**:  continued with  Classes
+**Thoughts:**
+**Link to work:**
+
+
+### Day 15: 5 February 2022
+**Today's Progress**:  no coding today :(
+**Thoughts:**
+**Link to work:**
+
+
+### Day 16: 6 February 2022
+**Today's Progress**:  no coding today :(
+**Thoughts:**
+**Link to work:**
+
+### Day 17: 7 February 2022
+**Today's Progress**:  no coding today :(
+**Thoughts:** Three days in a row that I failed to code.
+              Need to make more effort to be consistent
+**Link to work:**
+
+
+### Day 18: 8 February 2022
+**Today's Progress**:  finished classes. Looked at Standard Libraries
+**Thoughts:**
+**Link to work:**
