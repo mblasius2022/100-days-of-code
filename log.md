@@ -98,6 +98,7 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 **Thoughts:**
 **Link to work:**
 
+
 ### Day 17: 7 February 2022
 **Today's Progress**:  no coding today :(
 **Thoughts:** Three days in a row that I failed to code.
@@ -107,5 +108,10 @@ Python Crash Course Chapter 4 Working with lists - Understanding the For loop to
 
 ### Day 18: 8 February 2022
 **Today's Progress**:  finished classes. Looked at Standard Libraries
+**Thoughts:**
+**Link to work:**
+
+### Day 19: 8 February 2022
+**Today's Progress**:  Started Chapter 10 working with files and exceptions
 **Thoughts:**
 **Link to work:**
