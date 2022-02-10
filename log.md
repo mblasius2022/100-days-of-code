@@ -107,10 +107,10 @@ to work through a list, ranges and List Comprehensions
 
 ### Day 17: 7 February 2022
 
-**Today's Progress**: no coding today :(
-**Thoughts**: Three days in a row that I failed to code.
-Need to make more effort to be consistent
-**Link to work**:
+**Today's Progress**: no coding today :( \
+**Thoughts**: Three days in a row that I failed to code. \
+Need to make more effort to be consistent \
+**Link to work**: \
 
 ### Day 18: 8 February 2022
 
@@ -120,12 +120,14 @@ Need to make more effort to be consistent
 
 ### Day 19: 9 February 2022
 
-**Today's Progress**: Started Chapter 10 working with files and exceptions
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Started Chapter 10 working with files and exceptions \
+**Thoughts**: \
+**Link to work**: \
 
 ### Day 20: 10 February 2022
 
-**Today's Progress**: continued Chapter 10 working with files and exceptions
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: \
+- continued Chapter 10 working with files and exceptions \
+- started to do some small projects and problems \
+**Thoughts**: \
+**Link to work**: \
