@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+### 100 Days Of Code - Log
 
-** Language:** Python
+** Language**: Python
 ** Course**: Python Crash Course by Eric Matthes
 ** Problems**: https://practice.geeksforgeeks.org/explore/?problemType=functional&page=1&sortBy=submissions
 ** Projects**: https://www.freecodecamp.org/news/python-projects-for-beginners/
@@ -20,8 +20,9 @@
 ### Day 3: 24 January 2022
 
 **Today's Progress**:
-Python Crash Course Chapter 3 continued learning about string lists.
-Python Crash Course Chapter 4 Working with lists - Understanding the For loop to work through a list, ranges and List Comprehensions
+- Python Crash Course Chapter 3 continued learning about string lists.
+- Python Crash Course Chapter 4 Working with lists - Understanding the For loop
+to work through a list, ranges and List Comprehensions
 **Thoughts**:
 **Link to work**:
 
