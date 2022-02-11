@@ -6,6 +6,7 @@ counted as vowels — not y.
 """
 
 def count_vowels(word):
+    """ count the number of vowels in the string provided """
     vowel_count = 0
     vowels = ['a', 'e', 'i', 'o', 'u']
     characters = list(word)

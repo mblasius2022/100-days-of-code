@@ -131,3 +131,10 @@ Need to make more effort to be consistent \
 - started to do some small projects and problems \
 **Thoughts**: \
 **Link to work**: \
+
+### Day 21: 11 February 2022
+
+**Today's Progress**: \
+- continued with simple problems \
+**Thoughts**: \
+**Link to work**: \
