@@ -153,14 +153,14 @@ Need to make more effort to be consistent \
 **Thoughts**: \
 **Link to work**: \
 
-### Day 21: 14 February 2022
+### Day 24: 14 February 2022
 
 **Today's Progress**: \
 - [https://www.practicepython.org/]
 **Thoughts**: \
 **Link to work**: \
 
-### Day 22: 15 February 2022
+### Day 25: 15 February 2022
 
 **Today's Progress**: \
 - [https://www.practicepython.org/]
