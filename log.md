@@ -138,3 +138,31 @@ Need to make more effort to be consistent \
 - continued with simple problems \
 **Thoughts**: \
 **Link to work**: \
+
+### Day 22: 12 February 2022
+
+**Today's Progress**: \
+- continued with simple problems \
+**Thoughts**: \
+**Link to work**: \
+
+### Day 23: 13 February 2022
+
+**Today's Progress**: finished off the simple problems listed in \
+[https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/]
+**Thoughts**: \
+**Link to work**: \
+
+### Day 21: 14 February 2022
+
+**Today's Progress**: \
+- [https://www.practicepython.org/]
+**Thoughts**: \
+**Link to work**: \
+
+### Day 22: 15 February 2022
+
+**Today's Progress**: \
+- [https://www.practicepython.org/]
+**Thoughts**: \
+**Link to work**: \
