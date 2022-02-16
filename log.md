@@ -157,12 +157,23 @@ Need to make more effort to be consistent \
 
 **Today's Progress**: \
 - [https://www.practicepython.org/]
-**Thoughts**: \
-**Link to work**: \
+**Thoughts**:\
+**Link to work**:
 
 ### Day 25: 15 February 2022
 
 **Today's Progress**: \
-- [https://www.practicepython.org/]
+- [https://www.practicepython.org/]\
 **Thoughts**: \
-**Link to work**: \
+**Link to work**:
+
+### Day 26: 16 February 2022
+
+**Today's Progress**: \
+- [https://www.practicepython.org/]
+- Exercise 6
+- Exercise 13 - print Fibonacci sequence
+- Exercise 16 - random password generator
+- Exercise 18 - cows and bulls number guessing game
+**Thoughts**: \
+**Link to work**:
