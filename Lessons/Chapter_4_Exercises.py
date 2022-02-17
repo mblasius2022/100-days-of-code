@@ -1,4 +1,3 @@
-
 """
 Chapter Four Exercises - Working with lists
 
@@ -98,21 +97,21 @@ print("\n\nMy friends' favourite pizzas include:")
 for pizza in my_friends_pizzas:
     print(f" - {pizza}")
 
-"""   
+"""
 
 # TUPLES
 
-#4.13 Buffet
-buffet_foods = ('Tacos', 'Burrito','Chips and Dip','Enchilada','Salad')
+# 4.13 Buffet
+buffet_foods = ('Tacos', 'Burrito', 'Chips and Dip', 'Enchilada', 'Salad')
 print("Original Buffet Menu Items:")
 for food in buffet_foods:
     print(food)
 
 # modify tuple and generate error
-#buffet_foods[2] = 'Nachos'
+# buffet_foods[2] = 'Nachos'
 
 
-buffet_foods = ('Tacos', 'Burrito','Nachos','Quesadilla','Salad')
+buffet_foods = ('Tacos', 'Burrito', 'Nachos', 'Quesadilla', 'Salad')
 print("\nNew Buffet Menu Items:")
 for food in buffet_foods:
     print(food)
