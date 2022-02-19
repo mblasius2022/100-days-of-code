@@ -186,3 +186,15 @@ Need to make more effort to be consistent \
 **Today's Progress**: Chapter 11 - Unit Tests\
 **Thoughts**: \
 **Link to work**:
+
+### Day 27: 18 February 2022
+
+**Today's Progress**: Chapter 11 - Unit Tests continued\
+**Thoughts**: \
+**Link to work**:
+
+### Day 28: 19 February 2022
+
+**Today's Progress**: Project 2 - Data visualisation
+**Thoughts**: \
+**Link to work**:
