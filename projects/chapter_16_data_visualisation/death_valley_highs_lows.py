@@ -1,9 +1,7 @@
 import csv
 import matplotlib.pyplot as plt
 from datetime import datetime
-
 from numpy import tile
-
 
 #filename = '/home/marioblasius/git/100-days-of-code/projects/chapter_16_data_visualisation/data/sitka_weather_07-2018_simple.csv'
 file_path = '/home/marioblasius/git/100-days-of-code/projects/chapter_16_data_visualisation/data/'
