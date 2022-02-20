@@ -195,6 +195,15 @@ Need to make more effort to be consistent \
 
 ### Day 28: 19 February 2022
 
-**Today's Progress**: Project 2 - Data visualisation
+**Today's Progress**: Project 2 - Chapter 16 : Data visualisation
+**Thoughts**: \
+**Link to work**:
+
+### Day 29: 20 February 2022
+
+**Today's Progress**:
+-finished data visualisation
+- commenced Chapter 17 : APIs
+
 **Thoughts**: \
 **Link to work**:
