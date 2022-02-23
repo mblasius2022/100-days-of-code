@@ -207,3 +207,25 @@ Need to make more effort to be consistent \
 
 **Thoughts**: \
 **Link to work**:
+
+### Day 30: 21 February 2022
+
+**Today's Progress**:
+**Thoughts**: \
+**Link to work**:
+
+
+### Day 31: 22 February 2022
+
+**Today's Progress**:
+**Thoughts**: \
+**Link to work**:
+
+
+### Day 32: 23 February 2022
+
+**Today's Progress**:
+-continued with APIs
+
+**Thoughts**: \
+**Link to work**:
